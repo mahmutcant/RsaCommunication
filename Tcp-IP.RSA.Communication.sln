@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tcp-IP.RSA.Communication", "Tcp-IP.RSA.Communication\Tcp-IP.RSA.Communication.csproj", "{2C9EE15D-87FD-4EC7-B89C-663231DCC984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tcp-IP.RSA.Communication.Client", "Tcp-IP.RSA.Communication.Client\Tcp-IP.RSA.Communication.Client.csproj", "{9068788B-E4F7-45B4-AA19-3A390F88C343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C9EE15D-87FD-4EC7-B89C-663231DCC984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9EE15D-87FD-4EC7-B89C-663231DCC984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9EE15D-87FD-4EC7-B89C-663231DCC984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9EE15D-87FD-4EC7-B89C-663231DCC984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9068788B-E4F7-45B4-AA19-3A390F88C343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9068788B-E4F7-45B4-AA19-3A390F88C343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9068788B-E4F7-45B4-AA19-3A390F88C343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9068788B-E4F7-45B4-AA19-3A390F88C343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E722C6C-FE10-4E14-B55F-82243E701962}
+	EndGlobalSection
+EndGlobal
